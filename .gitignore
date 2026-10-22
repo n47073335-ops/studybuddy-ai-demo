@@ -3,3 +3,7 @@ __pycache__/
 *.py[cod]
 .env
 studybuddy.db
+.env
+*.db
+.venv/
+__pycache__/
